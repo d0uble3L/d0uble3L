@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d0uble3L
-- 👀 I’m interested in Python - Machine Learning - DevOps- Docker - Flask - Cyber Security
+- 👀 I’m interested in Python, GO - Machine Learning - DevSecOps- Cloud Computing  Cyber Security
 - 🌱 I’m currently learning Python, GO
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me twitter @d0uble3L
