@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @d0uble3L
-- 👀 I’m interested in Python, GO - Machine Learning - DevSecOps- Cloud Computing  Cyber Security
+- 👋 Hi, I’m @d0uble3L 
+- 👀 I’m interested in DevSecOps & Cloud Security, Machine Learning & AI
 - 🌱 I’m currently learning Python, GO
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me twitter @d0uble3L
+- 📫 How to reach me Twitter @d0uble3L or LinkedIn @michaeltayo
 
 <!---
 d0uble3L/d0uble3L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
