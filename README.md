@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there Hi, I’m Michael Tayo! 👋🏾
 
-I’m a cybersecurity strategist based in the USA, blending cutting-edge tech with a deep understanding of security architecture to keep the digital world from, well, crumbling into chaos. 
+I’m a cybersecurity strategist based in the USA, blending cutting-edge tech with a deep understanding of security architecture to keep the digital world from, well, crumbling into chaos. I’m passionate about automating security processes (because who doesn’t love making life easier?) and locking down cloud environments. Whether I’m building fortress-like defenses or hunting down vulnerabilities as they owe me money, I bring a fresh, forward-thinking approach to staying one step ahead of the bad guys.
 
 ## Find me on the 🌎:
 
